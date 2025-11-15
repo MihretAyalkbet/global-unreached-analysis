@@ -101,11 +101,4 @@ A **Frontier People Group** is:
 ##  License
 Include your preferred license here (e.g., MIT).  
 
----
-
-If you want, I can:
-- Create a ready-to-commit `README.md` file and a `README_with_images.md` (with embedded images) and provide them as files; or  
-- Provide a small Python script to validate/clean the CSV before Tableau import.  
-
-Which would you like next?
 
