@@ -32,7 +32,7 @@ To provide a visual global overview of unreached people groups and highlight whe
 ---
 
 ##  Data Source
-- Joshua Project (People Groups Dataset)
+- Joshua Project (People Groups Dataset).
 
 ## 👤 Visualization by
 **Mihret Ayalkbet**
