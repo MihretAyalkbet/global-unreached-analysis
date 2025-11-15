@@ -15,6 +15,8 @@ This project contains two Tableau dashboards visualizing the global distribution
 **Purpose:**
 To identify the countries with the largest unreached populations and highlight strategic mission priorities.
 
+HERE IS OUR VISULIZATION: https://public.tableau.com/views/Book2_17624350848060/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ---
 
 ##  Dashboard 2: Global Frontier & Unreached Map
@@ -25,7 +27,7 @@ To identify the countries with the largest unreached populations and highlight s
 - Color = **Frontier** vs **Unreached** groups.
 - Visual context and a short reflection on Luke 10:2.
 - Highlights major regions with concentrated mission needs (South Asia, Middle East, Africa).
-
+HERE IS OUR VISULIZATION:https://public.tableau.com/views/Book2_17624350848060/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 **Purpose:**
 To provide a visual global overview of unreached people groups and highlight where missionary presence is most needed.
 
