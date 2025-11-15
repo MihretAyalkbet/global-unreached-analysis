@@ -1,10 +1,10 @@
-# 📊 Unreached & Frontier People Groups Dashboards
+#  Unreached & Frontier People Groups Dashboards
 
 This project contains two Tableau dashboards visualizing the global distribution of Unreached and Frontier People Groups using data from the Joshua Project.
 
 ---
 
-## 🚨 Dashboard 1: Top 10 Unreached Countries & Mission Focus
+##  Dashboard 1: Top 10 Unreached Countries & Mission Focus
 
 **What it shows:**
 - Bar chart of the **Top 10 Most Unreached Countries** by total population.
@@ -17,7 +17,7 @@ To identify the countries with the largest unreached populations and highlight s
 
 ---
 
-## 🌍 Dashboard 2: Global Frontier & Unreached Map
+##  Dashboard 2: Global Frontier & Unreached Map
 
 **What it shows:**
 - A world map plotted using **Latitude & Longitude** for each people group.
@@ -31,7 +31,7 @@ To provide a visual global overview of unreached people groups and highlight whe
 
 ---
 
-## 📁 Data Source
+##  Data Source
 - Joshua Project (People Groups Dataset)
 
 ## 👤 Visualization by
